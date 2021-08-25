@@ -58,6 +58,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
+    title: D
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
