@@ -58,7 +58,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
-    title: Pronoia Re-Ag Defi
+    title: 'Pronoia Re-Ag DeFi '
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
