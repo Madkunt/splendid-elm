@@ -2,10 +2,6 @@
 layout: product
 id: '1'
 title: Nulla suscipit
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
