@@ -57,7 +57,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
-    title: 'Regenernative '
+    title: 'Regenertive native '
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
