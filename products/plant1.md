@@ -33,6 +33,7 @@ seo:
       value: images/plant1-lg.jpg
       relativeUrl: true
 description: 'Inactive Modular Equipment '
+title: M
 ---
 
 # Nulla suscipit
