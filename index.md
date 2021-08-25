@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/78081AB7-2011-47D9-8187-37063977F2C8.png
     background_image_opacity: 65
     content: |
       # ***PRONOIA RE-AG*** 
