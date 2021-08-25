@@ -1,7 +1,6 @@
 ---
 layout: product
 id: '1'
-title: Nulla suscipit
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
