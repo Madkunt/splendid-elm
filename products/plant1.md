@@ -33,7 +33,7 @@ seo:
       value: images/plant1-lg.jpg
       relativeUrl: true
 description: 'Inactive Modular Equipment '
-title: M
+title: Modular Agri
 ---
 
 # Nulla suscipit
