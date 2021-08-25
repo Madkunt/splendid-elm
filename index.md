@@ -50,7 +50,6 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    subtitle: from $149.99
     image: images/DE8FC8AD-7333-4B77-A45A-035DFA084601.jpeg
     background_image: images/leaf.svg
     cta:
