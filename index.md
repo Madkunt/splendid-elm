@@ -57,7 +57,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
-    title: Regenerative Fin
+    title: Regenerative Financ
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
