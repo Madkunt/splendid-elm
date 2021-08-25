@@ -58,6 +58,7 @@ sections:
       style: secondary
       arrow: true
     title: 'Pronoia Re-Ag DeFi '
+    subtitle: Reg
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
