@@ -4,7 +4,7 @@ id: '2'
 price: '99.00'
 title: Integer porta
 description: Suspendisse efficitur eget erat sit amet efficitur.
-default_thumbnail_image: images/plant2.jpg
+default_thumbnail_image: images/B9DBD014-1254-44E4-B729-728AABBA0DA3.jpeg
 default_original_image: images/plant2-lg.jpg
 order: 2
 category: category/cactuses.md
