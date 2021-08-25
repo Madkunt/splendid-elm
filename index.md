@@ -44,7 +44,7 @@ sections:
           store using this for sure.
       - author:
           name: Major Payne
-          location: 'Northern Territory, A'
+          location: 'Northern Territory, AUS'
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
