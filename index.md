@@ -58,7 +58,7 @@ sections:
       style: secondary
       arrow: true
     title: 'Regenerative Finance '
-    subtitle: 'Collateralised Crypto Loans That '
+    subtitle: Collateralised Crypto Loans That Will Reg
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
