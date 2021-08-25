@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
-description: Inact
+description: 'Inactive '
 ---
 
 # Nulla suscipit
