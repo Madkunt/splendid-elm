@@ -57,7 +57,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
-    title: Regenerative F
+    title: Regenerative Finc
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
