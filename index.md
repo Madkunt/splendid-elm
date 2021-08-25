@@ -58,7 +58,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
-    title: DEFI
+    title: P
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
