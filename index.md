@@ -58,6 +58,7 @@ sections:
       style: secondary
       arrow: true
     title: 'Regenerative Finance '
+    subtitle: C
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
