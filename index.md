@@ -25,7 +25,7 @@ sections:
       - products/plant3.md
       - products/plant5.md
       - products/plant7.md
-    title: Feat
+    title: Featured Prod
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
