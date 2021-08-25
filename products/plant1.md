@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
-description: Hi-
+description: 'Hi-Tech '
 ---
 
 # Nulla suscipit
