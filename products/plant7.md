@@ -3,7 +3,7 @@ layout: product
 id: '7'
 price: '0.00'
 default_thumbnail_image: images/08B659F4-7028-49FD-957E-912D85B24B5D.jpeg
-default_original_image: images/plant7-lg.jpg
+default_original_image: images/08B659F4-7028-49FD-957E-912D85B24B5D.jpeg
 order: 7
 category: category/bigplants.md
 seo:
