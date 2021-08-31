@@ -3,7 +3,6 @@ layout: product
 id: '7'
 price: '0.00'
 title: Sed consectetur
-description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/08B659F4-7028-49FD-957E-912D85B24B5D.jpeg
 default_original_image: images/plant7-lg.jpg
 order: 7
