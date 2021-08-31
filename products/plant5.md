@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '5'
-price: '220.00'
+price: '0.00'
 default_thumbnail_image: images/E5C98230-301C-4CBE-8A37-4D315DB81610.jpeg
 default_original_image: images/plant5-lg.jpg
 featured: true
