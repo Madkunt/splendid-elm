@@ -23,7 +23,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
-    subtitle: Mode
+    subtitle: M
 seo:
   title: Store
   description: This is the store page
