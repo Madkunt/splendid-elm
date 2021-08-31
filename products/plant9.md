@@ -33,7 +33,9 @@ seo:
     - name: 'twitter:image'
       value: images/plant9-lg.jpg
       relativeUrl: true
-description: 'This Course Will Provide You With The basics You Need '
+description: >-
+  This Course Will Provide You With The Basic Skill You Need To Implement
+  Blockchain Technology Into Your Farming Practice.
 title: Blockchain Basics
 ---
 
