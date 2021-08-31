@@ -27,5 +27,5 @@ seo:
     - name: 'twitter:image'
       value: images/plant8-lg.jpg
       relativeUrl: true
-title: 'Regenerative Fina '
+title: 'Regenerative Financial  '
 ---
