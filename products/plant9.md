@@ -34,7 +34,7 @@ seo:
       value: images/plant9-lg.jpg
       relativeUrl: true
 description: 'This Course '
-title: Blockchain Basi
+title: Blockchain Basic l
 ---
 
 # Fusce sagittis
