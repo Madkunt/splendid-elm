@@ -23,7 +23,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
-    subtitle: M
+    subtitle: 'Modern '
 seo:
   title: Store
   description: This is the store page
