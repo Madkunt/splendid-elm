@@ -41,7 +41,7 @@ sections:
     section_id: contact_section
     phone: +1-202-555-0112
     email: geeks@snipcart.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5u'
     address: 'Queensland, Australia'
 seo:
   title: FAQ
