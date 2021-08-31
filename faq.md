@@ -15,7 +15,7 @@ sections:
     questions:
       - question: What Is Regenerative Agriculture?
         answer: "## In addition to a long list of incredible benefits for farmers and their crops, regenerative agriculture practices help us fight the climate crisis by pulling carbon from the atmosphere and sequestering it in the ground.\n\nWe know that to solve the climate crisis, business as usual will not cut it. Not in electricity production. Not in industry. Not in transportation. And certainly not in agriculture.\n\nThe agriculture sector is one of the biggest emitters of CO2, the greenhouse gas (GHG) most responsible for the changes we are seeing in our climate today. Together with forestry and other land use, agriculture is responsible for just under\_25 percent\_of all human-created GHG emissions.\n\nBut it also has a vital role to play in helping us end this crisis, and create a safe, sustainable future without carbon pollution. One where we can provide our booming world population with fresh, healthy food grown in a sustainable soil ecosystem.\n\nSure, it may seem like a contradiction. So don’t take it from us –\_[take it from the Intergovernmental Panel on Climate Change (IPCC)](https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3\\_ar5\\_chapter11.pdf): “Leveraging the mitigation potential in the \\[Agriculture, Forestry and Other Land Use] sector is extremely important in meeting emission reduction targets.”\n\nBut how?\n\nWe’ve got two words for you:\_**regenerative agriculture**.\n"
-      - question: How do refunds and returns work?
+      - question: How It Works?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
           *someone*. Again, tell it like it is:
