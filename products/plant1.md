@@ -2,7 +2,7 @@
 layout: product
 id: '1'
 default_thumbnail_image: images/39A09EBC-EBCA-453A-8DB7-21EE2D479667.jpeg
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/39A09EBC-EBCA-453A-8DB7-21EE2D479667.jpeg
 featured: true
 order: 1
 category: category/bigplants.md
