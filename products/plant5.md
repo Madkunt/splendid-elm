@@ -3,7 +3,7 @@ layout: product
 id: '5'
 price: '0.00'
 default_thumbnail_image: images/E5C98230-301C-4CBE-8A37-4D315DB81610.jpeg
-default_original_image: images/plant5-lg.jpg
+default_original_image: images/B6358699-B34A-421C-8568-ACF1BFB3EDC4.jpeg
 featured: true
 order: 5
 category: category/bigplants.md
