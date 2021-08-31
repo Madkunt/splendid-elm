@@ -456,7 +456,7 @@ models:
       - type: string
         name: mapUrl
         label: Map URL
-      - name: Twi
+      - name: 'twitter '
         type: string
   bulletpoints_section:
     type: object
