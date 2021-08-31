@@ -2,7 +2,7 @@
 layout: product
 id: '2'
 default_thumbnail_image: images/B9DBD014-1254-44E4-B729-728AABBA0DA3.jpeg
-default_original_image: images/plant2-lg.jpg
+default_original_image: images/B9DBD014-1254-44E4-B729-728AABBA0DA3.jpeg
 order: 2
 category: category/cactuses.md
 seo:
