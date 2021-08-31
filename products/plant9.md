@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant9-lg.jpg
       relativeUrl: true
-description: 'This Course Will Provide '
+description: This Course Will Provide Uo
 title: Blockchain Basics
 ---
 
