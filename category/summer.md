@@ -27,5 +27,5 @@ seo:
     - name: 'twitter:image'
       value: images/plant8-lg.jpg
       relativeUrl: true
-title: 'Pronoia ReFinancial  '
+title: 'Pronoia Re-Financial  '
 ---
