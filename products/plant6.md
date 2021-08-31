@@ -32,6 +32,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant6-lg.jpg
       relativeUrl: true
+title: Modular Agricultural Equipment
 ---
 
 # Donec finibus
