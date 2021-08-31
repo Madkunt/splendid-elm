@@ -2,7 +2,6 @@
 layout: product
 id: '9'
 price: '0.00'
-title: Fusce sagittis
 default_thumbnail_image: images/25CB2601-F137-4475-ADAC-FAC2ACD802B3.jpeg
 default_original_image: images/25CB2601-F137-4475-ADAC-FAC2ACD802B3.jpeg
 featured: true
