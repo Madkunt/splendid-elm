@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '9'
-price: '400.00'
+price: '0.00'
 title: Fusce sagittis
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/25CB2601-F137-4475-ADAC-FAC2ACD802B3.jpeg
