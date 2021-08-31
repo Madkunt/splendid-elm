@@ -27,7 +27,7 @@ sections:
           too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
           any bugs, open an issue, and we’ll fire our junior dev. Just kidding
           Michael, you’re good.
-        image: images/485FF28A-78F4-4554-8D00-AF95C4657926.jpeg
+        image: images/68046CB0-4ADA-4FCE-BC61-D9D303A490C2.jpeg
       - title: We think plants are the future
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
