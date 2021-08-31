@@ -3,7 +3,7 @@ layout: product
 id: '3'
 price: '0.00'
 default_thumbnail_image: images/5B9E621C-13FD-4D38-8B66-18625B371D23.jpeg
-default_original_image: images/plant3-lg.jpg
+default_original_image: images/5B9E621C-13FD-4D38-8B66-18625B371D23.jpeg
 featured: true
 order: 3
 category: category/cactuses.md
