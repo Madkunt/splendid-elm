@@ -33,7 +33,7 @@ seo:
       value: images/plant4-lg.jpg
       relativeUrl: true
 title: 'Modular Autonomous Monitoring '
-description: This Cou
+description: 'This Course '
 ---
 
 # Cras molestie
