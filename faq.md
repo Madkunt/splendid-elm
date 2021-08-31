@@ -42,7 +42,7 @@ sections:
     phone: +1-202-555-0112
     email: geeks@snipcart.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
-    address: 'Queensland, Au'
+    address: 'Queensland, Australia'
 seo:
   title: FAQ
   description: This is the faq page
