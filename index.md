@@ -38,7 +38,19 @@ sections:
       - author:
           name: John Dope
           location: 'Queensland, AUS'
-        text: "WOW Pronoia Re-Ag is an encyclopedia of knowledge. I took heaps of notes and have truck loads of things to follow up. \_ \_ \_ \_ \_ \"Big thank you to you, Helen & Hugo. I had a fantastic talk with Hugo, wow he is an encyclopedia of knowledge. I took heaps of notes and have truck loads of things to follow up. If you could thank him again for me it would be greatly appreciated. Another great classroom session. Gerard has a great setup and I loved what he was talking about with regards to succession planning. Definatly going to look into the trust idea and having someone run it when we can’t. We always wondered what we would do, spend all this time, money and effort into making a beautiful production farm just to sell it and someone just rips it all out, would be heart breaking. You have all been very generous and it is so greatly appreciated. \"  Many Thanks,"
+        text: >-
+          "Big thank you to you, Pronoia Re-Ag. I had a fantastic talk with
+          Pronoia Re-Ag, wow Pronoia Re-Ag is an encyclopedia of knowledge. I
+          took heaps of notes and have truck loads of things to follow up. If
+          you could thank Pronoia Re-Ag again for me it would be greatly
+          appreciated. Another great classroom session. Pronoia Re-Ag has a
+          great setup and I loved what he was talking about with regards to
+          succession planning. Definatly going to look into the trust idea and
+          having someone run it when we can’t. We always wondered what we would
+          do, spend all this time, money and effort into making a beautiful
+          production farm just to sell it and someone just rips it all out,
+          would be heart breaking. You have all been very generous and it is so
+          greatly appreciated. "  Many Thanks,
       - author:
           name: Major Payne
           location: 'Northern Territory, AUS'
