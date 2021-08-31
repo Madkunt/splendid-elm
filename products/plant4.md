@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '4'
-price: '24.99'
+price: '24.00'
 title: Cras molestie
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/3E4E2D6C-8D38-4F47-B418-41673990BE74.jpeg
