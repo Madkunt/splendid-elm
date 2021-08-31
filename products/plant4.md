@@ -32,7 +32,8 @@ seo:
     - name: 'twitter:image'
       value: images/plant4-lg.jpg
       relativeUrl: true
-title: Modular Autonomous Moni
+title: 'Modular Autonomous Monitoring '
+description: L
 ---
 
 # Cras molestie
