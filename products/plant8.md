@@ -2,7 +2,7 @@
 layout: product
 id: '8'
 default_thumbnail_image: images/F2E17E99-C232-4FA8-9D91-4F98B78D9710.jpeg
-default_original_image: images/plant8-lg.jpg
+default_original_image: images/C42C65C1-F39B-4F7F-91CB-998B62E79AD3.jpeg
 order: 8
 category: category/summer.md
 seo:
