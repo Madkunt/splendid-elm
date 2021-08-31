@@ -53,7 +53,7 @@ sections:
           greatly appreciated. "  Many Thanks,
       - author:
           name: Major Payne
-          location: 'Northern Territory, AUS'
+          location: 'Northern Territory, AUStralia'
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
