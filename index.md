@@ -40,7 +40,7 @@ sections:
           location: 'Queensland, AUS'
         text: >-
           WOW Pronoia Re-Ag is an encyclopedia of knowledge. I took heaps of
-          notes and have truck loads of things to follow up. "Big thank you to
+          notes and have truck loads of things to follow up."Big thank you to
           you, Helen & Hugo. I had a fantastic talk with Hugo, wow he is an
           encyclopedia of knowledge. I took heaps of notes and have truck loads
           of things to follow up. If you could thank him again for me it would
