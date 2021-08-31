@@ -3,7 +3,7 @@ layout: product
 id: '6'
 price: '0.00'
 default_thumbnail_image: images/F2215130-504A-45F8-B99E-753C980A3881.jpeg
-default_original_image: images/plant6-lg.jpg
+default_original_image: images/F2215130-504A-45F8-B99E-753C980A3881.jpeg
 order: 6
 category: category/bigplants.md
 seo:
