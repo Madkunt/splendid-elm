@@ -41,7 +41,7 @@ sections:
         text: >-
           I didn't know the Snipcart guys were into herbs as well! How beautiful
           is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          store using this for sure
       - author:
           name: Major Payne
           location: 'Northern Territory, AUS'
