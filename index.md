@@ -37,7 +37,7 @@ sections:
     testimonials:
       - author:
           name: John Dope
-          location: 'Queensland, AUS'
+          location: 'Queensland, AUSTralia'
         text: >-
           "Big thank you to you, Pronoia Re-Ag. I had a fantastic talk with
           Pronoia Re-Ag, wow Pronoia Re-Ag is an encyclopedia of knowledge. I
