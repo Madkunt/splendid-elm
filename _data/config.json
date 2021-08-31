@@ -13,7 +13,7 @@
     "palette": "green",
     "main_menu": [
         {
-            "title": "Store",
+            "title": "Pronoia Re-Ag Products",
             "url": "/store",
             "style": "link"
         },
