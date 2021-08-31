@@ -1,6 +1,6 @@
 ---
 layout: category
-order: 4
+order: 1
 seo:
   title: Summer plants
   description: This is the store page
