@@ -3,7 +3,7 @@ layout: product
 id: '4'
 price: '0.00'
 title: Cras molestie
-description: Maecenas pretium blandit e
+description: Mae
 default_thumbnail_image: images/3E4E2D6C-8D38-4F47-B418-41673990BE74.jpeg
 default_original_image: images/3E4E2D6C-8D38-4F47-B418-41673990BE74.jpeg
 order: 4
