@@ -34,6 +34,7 @@ seo:
       relativeUrl: true
 description: 'Inactive Modular Equipment '
 title: 'Modular Agricultural Equipment '
+price: '0.00'
 ---
 
 # Nulla suscipit
