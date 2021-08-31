@@ -34,7 +34,7 @@ seo:
       value: images/plant3-lg.jpg
       relativeUrl: true
 description: 'Basic Agricultural Skills '
-title: Regenerative Agriculture Bas
+title: 'Regenerative Agriculture Basics '
 ---
 
 # Curabitur eu tempor
