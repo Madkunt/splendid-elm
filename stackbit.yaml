@@ -456,6 +456,8 @@ models:
       - type: string
         name: mapUrl
         label: Map URL
+      - name: ''
+        type: string
   bulletpoints_section:
     type: object
     label: Bulletpoints Section
