@@ -33,7 +33,6 @@ seo:
     - name: 'twitter:image'
       value: images/plant2-lg.jpg
       relativeUrl: true
-title: Pr
 ---
 
 # Integer porta
