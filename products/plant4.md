@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant4-lg.jpg
       relativeUrl: true
-title: 'Modular Autonomous '
+title: Modular Autonomous Mon
 ---
 
 # Cras molestie
