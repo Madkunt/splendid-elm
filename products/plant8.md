@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant8-lg.jpg
       relativeUrl: true
-title: Reg
+title: Regenerative Fin
 ---
 
 # Fusce sed
