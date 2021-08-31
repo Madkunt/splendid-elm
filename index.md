@@ -38,7 +38,6 @@ sections:
       - author:
           name: John Dope
           location: 'Queensland, AUS'
-        text: I
       - author:
           name: Major Payne
           location: 'Northern Territory, AUS'
