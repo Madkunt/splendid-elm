@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant3-lg.jpg
       relativeUrl: true
-description: 'Basic '
+description: Basic Agri
 ---
 
 # Curabitur eu tempor
