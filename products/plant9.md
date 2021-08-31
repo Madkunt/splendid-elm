@@ -34,7 +34,6 @@ seo:
       value: images/plant9-lg.jpg
       relativeUrl: true
 description: 'This Course '
-title: 'Learn the '
 ---
 
 # Fusce sagittis
