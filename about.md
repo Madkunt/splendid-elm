@@ -39,7 +39,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: 'A New Take, On Old Practices'
-    subtitle: from $149.99
+    subtitle: Pronoia Re-Ag
     image: images/0F6C2321-ADD3-4B3E-8619-52F431E20281.jpeg
     background_image: /images/leaf.svg
     cta:
