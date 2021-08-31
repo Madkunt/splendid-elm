@@ -33,6 +33,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant3-lg.jpg
       relativeUrl: true
+description: Basi
 ---
 
 # Curabitur eu tempor
