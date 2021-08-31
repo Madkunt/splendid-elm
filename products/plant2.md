@@ -32,6 +32,7 @@ seo:
       value: images/plant2-lg.jpg
       relativeUrl: true
 title: 'Seed Storage '
+price: '0.0'
 ---
 
 # Integer porta
