@@ -43,7 +43,7 @@ sections:
           the meaning of life? <br /> A: We’re not quite sure. But building
           useful products with people we love feels meaningful enough.
   - type: contact_section
-    image: images/promo.jpg
+    image: images/C6AE10D2-43B0-4BDE-80F5-1465C0AEEEE5.jpeg
     section_id: contact_section
     address: '226 rue St-Joseph E, Québec, QC, Canada, G1K 3A9'
     phone: +1-202-555-0112
