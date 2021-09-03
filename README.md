@@ -1,4 +1,4 @@
-# ✨ splendid-elm ✨
+# ✨ Pronoia Re-Ag ✨
 
 This is a [Jekyll](https://jekyllrb.com) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
 
